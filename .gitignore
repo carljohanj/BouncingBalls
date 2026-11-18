@@ -1,9 +1,5 @@
 
-# Ignorera .idea-mappen:
+# Ignorera dessa filer
 .idea/
-
-# Ignorera out-mappen (innehåller byggfiler och annat bös) :
 out/
-
-# Ignorera alla .iml-filer:
 *.iml
